@@ -8,8 +8,9 @@ You can reach me on Twitter at **@dotWicho**
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=006600)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=006600)
+![](https://img.shields.io/badge/Editor-GoLand-informational?style=flat&logo=intellij-idea&logoColor=white&color=006600)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=006600)
-![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala&logoColor=white&color=006600)
+![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala&logoColor=red&color=006600)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=006600)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=006600)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=006600)

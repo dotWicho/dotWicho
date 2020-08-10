@@ -1,8 +1,8 @@
 ### Hi there <img src="https://github.com/dotWicho/dotWicho/blob/master/hi.gif" width="30px">
 
 My name is **Luis Martinez** _aka_ **_.Wicho_**, i'm a Cloud Engineer and Network Engineer, and many times I perform as Software Developer.
-I'm from **Venezuela** :venezuela: living in **Argentina** :argentina:, currently working in the Systems Sector as an _**IT infrastructure developer/SRE**_.
-
+I'm from **Venezuela** <img src="https://github.com/dotWicho/dotWicho/blob/master/ve.png" width="30px"> living in **Argentina** <img src="https://github.com/dotWicho/dotWicho/blob/master/ar.png"  width="30px">, currently working in the Banking and Finance Sector as an _**IT infrastructure developer/SRE**_.
+ 
 You can reach me on Twitter at **@dotWicho** 
 
 ## 🔧 Technologies & Tools

@@ -1,6 +1,6 @@
 ### Hi there <img src="hi.gif" width="30px">
 
-####> My name is Luis Martinez aka .Wicho, i'm a Cloud Engineer and Network Engineer, and many times I perform as Software Developer.
+###> My name is Luis Martinez aka .Wicho, i'm a Cloud Engineer and Network Engineer, and many times I perform as Software Developer.
 I'm from Venezuela living in Argentina, currently working in the Systems Sector as an IT infrastructure developer/SRE.
 
 You can reach me on Twitter at @dotWicho 

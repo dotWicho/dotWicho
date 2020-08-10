@@ -1,6 +1,7 @@
 ### Hi there <img src="hi.gif" width="30px">
+<p align='justify'>
 My name is Luis Martinez aka .Wicho, i'm a Cloud Engineer and Network Engineer, and many times I perform as Software Developer. I'm from Venezuela, currently live in Argentina working  in the systems sector as an IT infrastructure developer/SRE. You can reach me on Twitter at @dotWicho 
-
+</p>
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=9c9c9c)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=9c9c9c)

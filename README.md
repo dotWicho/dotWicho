@@ -20,9 +20,9 @@ You can reach me on Twitter at **@dotWicho**
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=blue&color=006600)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=blue&color=006600)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=006600)
+![](https://img.shields.io/badge/HashiCorp-Terraform-informational?logo=terraform&style=flat&logoColor=purple&color=006600)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=006600)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=006600)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=006600)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=006600)
 ![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google&logoColor=white&color=006600)
 

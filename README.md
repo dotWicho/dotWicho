@@ -7,7 +7,6 @@ I'm from **Venezuela** <img src="https://github.com/dotWicho/dotWicho/blob/maste
 You can reach me on Twitter at **@dotWicho** 
 
 ## 🔧 Technologies & Tools
-<img src="https://simpleicons.org/icons/cisco.svg" width="15px">
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=006600)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=006600)
 ![](https://img.shields.io/badge/Editor-GoLand-informational?style=flat&logo=intellij-idea&logoColor=white&color=006600)
@@ -27,6 +26,9 @@ You can reach me on Twitter at **@dotWicho**
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=006600)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=006600)
 ![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google&logoColor=white&color=006600)
+
+## Network knowledge
+<img src="https://simpleicons.org/icons/cisco.svg" width="30px">
 
 <!-- **dotWicho/dotWicho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align='center'>

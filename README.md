@@ -7,6 +7,7 @@ I'm from **Venezuela** <img src="https://github.com/dotWicho/dotWicho/blob/maste
 You can reach me on Twitter at **@dotWicho** 
 
 ## 🔧 Technologies & Tools
+![](https://simpleicons.org/icons/cisco.svg)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=006600)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=006600)
 ![](https://img.shields.io/badge/Editor-GoLand-informational?style=flat&logo=intellij-idea&logoColor=white&color=006600)

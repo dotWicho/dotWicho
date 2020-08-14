@@ -27,9 +27,6 @@ You can reach me on Twitter at **@dotWicho**
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=006600)
 ![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google&logoColor=white&color=006600)
 
-## Badges
-<a href="https://credentials.itcollege.com.ar/02f6ba04-6a18-4038-85f9-656c7fd098d9#gs.cvpsv5"><img height="30" src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=21785052&key=null"></a>
-
 <!-- **dotWicho/dotWicho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align='center'>
 <a href="https://"><img height="30" src="https://raw.githubusercontent.com/dotWicho/dotWicho/main/icon/dev.png"></a>&nbsp;&nbsp;

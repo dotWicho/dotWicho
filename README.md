@@ -9,30 +9,58 @@ You can reach me on Twitter at **@dotWicho** or Linkedin at **https://www.linked
 ## 🔧 Technologies & Tools
 ### OS:
 <img src="https://simpleicons.org/icons/linux.svg" width="25px"> Linux 
+<img src="https://simpleicons.org/icons/freebsd.svg" width="25px"> FreeBSD 
+<img src="https://simpleicons.org/icons/windows.svg" width="25px"> Windows (Personal and Server variants) 
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=006600)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=006600)
-![](https://img.shields.io/badge/Editor-GoLand-informational?style=flat&logo=intellij-idea&logoColor=white&color=006600)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow&color=006600)
-![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala&logoColor=red&color=006600)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=blue&color=006600)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=006600)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=006600)
-![](https://img.shields.io/badge/NoSQL-Redis-informational?logo=redis&style=flat&logoColor=ff0000&color=006600)
-![](https://img.shields.io/badge/RDBMS-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=blue&color=006600)
-![](https://img.shields.io/badge/RDBMS-MySQL-informational?style=flat&logo=mysql&logoColor=blue&color=006600)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=blue&color=006600)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=blue&color=006600)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=006600)
-![](https://img.shields.io/badge/HashiCorp-Terraform-informational?logo=terraform&style=flat&logoColor=purple&color=006600)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=006600)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=006600)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=006600)
-![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google&logoColor=white&color=006600)
+### Cloud
+<img src="https://simpleicons.org/icons/amazonaws.svg" width="25px"> Amazon AWS 
+<img src="https://simpleicons.org/icons/microsoftazure.svg" width="25px"> Microsoft Azure 
+<img src="https://simpleicons.org/icons/googlecloud.svg" width="25px"> Google Cloud 
+<img src="https://simpleicons.org/icons/digitalocean.svg" width="25px"> Digital Ocean
+
+### RDBMS
+<img src="https://simpleicons.org/icons/mysql.svg" width="25px"> MySQL
+<img src="https://simpleicons.org/icons/mariadb.svg" width="25px"> MariaDB
+<img src="https://simpleicons.org/icons/postgresql.svg" width="25px"> PostgreSQL
+<img src="https://simpleicons.org/icons/microsoftsqlserver.svg" width="25px"> Microsoft SQL Server
+
+### NoSQL
+<img src="https://simpleicons.org/icons/apachecassandra.svg" width="25px"> Apache Cassandra
+<img src="https://simpleicons.org/icons/redis.svg" width="25px"> Redis
+<img src="https://simpleicons.org/icons/mongodb.svg" width="25px"> MongoDB
+
+### Automation
+<img src="https://simpleicons.org/icons/bamboo.svg" width="25px"> Bamboo
+<img src="https://simpleicons.org/icons/ansible.svg" width="25px"> Ansible
+<img src="https://simpleicons.org/icons/jenkins.svg" width="25px"> Jenkins
+<img src="https://simpleicons.org/icons/circleci.svg" width="25px"> CircleCI
+<img src="https://simpleicons.org/icons/puppet.svg" width="25px"> Puppet
+
+### Containers
+<img src="https://simpleicons.org/icons/docker.svg" width="25px"> Docker
+
+### Deployment Automation
+<img src="https://simpleicons.org/icons/kubernetes.svg" width="25px"> Kubernetes
+<img src="https://simpleicons.org/icons/apachecassandra.svg" width="25px"> DC/OS8
+<img src="https://simpleicons.org/icons/redhatopenshift.svg" width="25px"> Red Hat OpenShift
+
+### IasC
+<img src="https://simpleicons.org/icons/terraform.svg" width="25px"> Hashicorp Terraform
+<img src="https://simpleicons.org/icons/amazonaws.svg" width="25px"> Amazon Cloudformation
+
+### CVS
+<img src="https://simpleicons.org/icons/git.svg" width="25px"> Git
+
+### Programming languages
+<img src="https://simpleicons.org/icons/go.svg" width="25px"> Golang
+<img src="https://simpleicons.org/icons/java.svg" width="25px"> Java
+<img src="https://simpleicons.org/icons/scala.svg" width="25px"> Scala
+<img src="https://simpleicons.org/icons/python.svg" width="25px"> Python
 
 ## Network knowledge
-<img src="https://simpleicons.org/icons/cisco.svg" width="30px">
-
+<img src="https://simpleicons.org/icons/cisco.svg" width="30px"> Cisco (Os & Hardware)
+<img src="https://www.juniper.net/assets/svg/jnpr-logo.svg" width="30px"> Juniper Networks (Os & Hardware)
+<img src="https://res-www.zte.com.cn/mediares/zte/Global/logo/zte_logo_en.png" width="30px"> ZTE Network equipment (Os & Hardware)
 
 <!-- **dotWicho/dotWicho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align='center'>

@@ -4,10 +4,11 @@ My name is **Luis Martinez** _aka_ **_.Wicho_**, i'm a Cloud Engineer and Networ
 
 I'm from **Venezuela** <img src="https://github.com/dotWicho/dotWicho/blob/master/ve.png" width="15px"> living in **Argentina** <img src="https://github.com/dotWicho/dotWicho/blob/master/ar.png" width="15px">, currently working in the Banking and Finance Sector as an _**IT infrastructure developer/SRE**_.
  
-You can reach me on Twitter at **@dotWicho** 
+You can reach me on Twitter at **@dotWicho** or Linkedin at **https://www.linkedin.com/in/luisenrique-mart%C3%ADnez**
 
 ## 🔧 Technologies & Tools
-Linux <img src="https://simpleicons.org/icons/linux.svg" width="30px">
+### OS:
+<img src="https://simpleicons.org/icons/linux.svg" width="25px"> Linux 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=006600)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=006600)

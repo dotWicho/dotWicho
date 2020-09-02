@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/dotWicho/dotWicho/blob/master/hi.gif" width="30px">
 
-My name is **Luis Martinez** _aka_ **_.Wicho_**, i'm a Cloud Engineer and Network Engineer, and many times I perform as Software Developer.
+My name is **Luis Martinez** _aka_ **_.Wicho_**, i'm a Cloud and Network Engineer, and many times I perform as Software Developer.
 
 I'm from **Venezuela** <img src="https://github.com/dotWicho/dotWicho/blob/master/ve.png" width="15px"> living in **Argentina** <img src="https://github.com/dotWicho/dotWicho/blob/master/ar.png" width="15px">, currently working in the Banking and Finance Sector as an _**IT infrastructure developer/SRE**_.
  
@@ -9,9 +9,7 @@ You can reach me on Twitter at **@dotWicho** or Linkedin at **https://www.linked
 ## 🔧 Technologies & Tools
 ### OS:
 <img src="https://simpleicons.org/icons/linux.svg" width="25px"> Linux
-
 <br><img src="https://simpleicons.org/icons/freebsd.svg" width="25px"> FreeBSD
-
 <br><img src="https://simpleicons.org/icons/windows.svg" width="25px"> Windows (Personal and Server variants)
 
 ### Cloud
@@ -43,7 +41,7 @@ You can reach me on Twitter at **@dotWicho** or Linkedin at **https://www.linked
 
 ### Deployment Automation
 <img src="https://simpleicons.org/icons/kubernetes.svg" width="25px"> Kubernetes
-<br><img src="https://simpleicons.org/icons/apachecassandra.svg" width="25px"> DC/OS8
+<br><img src="https://dcos.io/assets/images/icons/mesosphere.svg" width="25px"> DC/OS
 <br><img src="https://simpleicons.org/icons/redhatopenshift.svg" width="25px"> Red Hat OpenShift
 
 ### IasC

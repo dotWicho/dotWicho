@@ -14,53 +14,53 @@ You can reach me on Twitter at **@dotWicho** or Linkedin at **https://www.linked
 
 ### Cloud
 <img src="https://simpleicons.org/icons/amazonaws.svg" width="25px"> Amazon AWS 
-<img src="https://simpleicons.org/icons/microsoftazure.svg" width="25px"> Microsoft Azure 
-<img src="https://simpleicons.org/icons/googlecloud.svg" width="25px"> Google Cloud 
-<img src="https://simpleicons.org/icons/digitalocean.svg" width="25px"> Digital Ocean
+<br><img src="https://simpleicons.org/icons/microsoftazure.svg" width="25px"> Microsoft Azure 
+<br><img src="https://simpleicons.org/icons/googlecloud.svg" width="25px"> Google Cloud 
+<br><img src="https://simpleicons.org/icons/digitalocean.svg" width="25px"> Digital Ocean
 
 ### RDBMS
 <img src="https://simpleicons.org/icons/mysql.svg" width="25px"> MySQL
-<img src="https://simpleicons.org/icons/mariadb.svg" width="25px"> MariaDB
-<img src="https://simpleicons.org/icons/postgresql.svg" width="25px"> PostgreSQL
-<img src="https://simpleicons.org/icons/microsoftsqlserver.svg" width="25px"> Microsoft SQL Server
+<br><img src="https://simpleicons.org/icons/mariadb.svg" width="25px"> MariaDB
+<br><img src="https://simpleicons.org/icons/postgresql.svg" width="25px"> PostgreSQL
+<br><img src="https://simpleicons.org/icons/microsoftsqlserver.svg" width="25px"> Microsoft SQL Server
 
 ### NoSQL
 <img src="https://simpleicons.org/icons/apachecassandra.svg" width="25px"> Apache Cassandra
-<img src="https://simpleicons.org/icons/redis.svg" width="25px"> Redis
-<img src="https://simpleicons.org/icons/mongodb.svg" width="25px"> MongoDB
+<br><img src="https://simpleicons.org/icons/redis.svg" width="25px"> Redis
+<br><img src="https://simpleicons.org/icons/mongodb.svg" width="25px"> MongoDB
 
 ### Automation
 <img src="https://simpleicons.org/icons/bamboo.svg" width="25px"> Bamboo
-<img src="https://simpleicons.org/icons/ansible.svg" width="25px"> Ansible
-<img src="https://simpleicons.org/icons/jenkins.svg" width="25px"> Jenkins
-<img src="https://simpleicons.org/icons/circleci.svg" width="25px"> CircleCI
-<img src="https://simpleicons.org/icons/puppet.svg" width="25px"> Puppet
+<br><img src="https://simpleicons.org/icons/ansible.svg" width="25px"> Ansible
+<br><img src="https://simpleicons.org/icons/jenkins.svg" width="25px"> Jenkins
+<br><img src="https://simpleicons.org/icons/circleci.svg" width="25px"> CircleCI
+<br><img src="https://simpleicons.org/icons/puppet.svg" width="25px"> Puppet
 
 ### Containers
 <img src="https://simpleicons.org/icons/docker.svg" width="25px"> Docker
 
 ### Deployment Automation
 <img src="https://simpleicons.org/icons/kubernetes.svg" width="25px"> Kubernetes
-<img src="https://simpleicons.org/icons/apachecassandra.svg" width="25px"> DC/OS8
-<img src="https://simpleicons.org/icons/redhatopenshift.svg" width="25px"> Red Hat OpenShift
+<br><img src="https://simpleicons.org/icons/apachecassandra.svg" width="25px"> DC/OS8
+<br><img src="https://simpleicons.org/icons/redhatopenshift.svg" width="25px"> Red Hat OpenShift
 
 ### IasC
 <img src="https://simpleicons.org/icons/terraform.svg" width="25px"> Hashicorp Terraform
-<img src="https://simpleicons.org/icons/amazonaws.svg" width="25px"> Amazon Cloudformation
+<br><img src="https://simpleicons.org/icons/amazonaws.svg" width="25px"> Amazon Cloudformation
 
 ### CVS
 <img src="https://simpleicons.org/icons/git.svg" width="25px"> Git
 
 ### Programming languages
 <img src="https://simpleicons.org/icons/go.svg" width="25px"> Golang
-<img src="https://simpleicons.org/icons/java.svg" width="25px"> Java
-<img src="https://simpleicons.org/icons/scala.svg" width="25px"> Scala
-<img src="https://simpleicons.org/icons/python.svg" width="25px"> Python
+<br><img src="https://simpleicons.org/icons/java.svg" width="25px"> Java
+<br><img src="https://simpleicons.org/icons/scala.svg" width="25px"> Scala
+<br><img src="https://simpleicons.org/icons/python.svg" width="25px"> Python
 
 ## Network knowledge
 <img src="https://simpleicons.org/icons/cisco.svg" width="30px"> Cisco (Os & Hardware)
-<img src="https://www.juniper.net/assets/svg/jnpr-logo.svg" width="30px"> Juniper Networks (Os & Hardware)
-<img src="https://res-www.zte.com.cn/mediares/zte/Global/logo/zte_logo_en.png" width="30px"> ZTE Network equipment (Os & Hardware)
+<br><img src="https://www.juniper.net/assets/svg/jnpr-logo.svg" width="30px"> Juniper Networks (Os & Hardware)
+<br><img src="https://res-www.zte.com.cn/mediares/zte/Global/logo/zte_logo_en.png" width="30px"> ZTE Network equipment (Os & Hardware)
 
 <!-- **dotWicho/dotWicho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align='center'>

@@ -8,9 +8,11 @@ You can reach me on Twitter at **@dotWicho** or Linkedin at **https://www.linked
 
 ## 🔧 Technologies & Tools
 ### OS:
-<img src="https://simpleicons.org/icons/linux.svg" width="25px"> Linux 
-<br><img src="https://simpleicons.org/icons/freebsd.svg" width="25px"> FreeBSD 
-<br><img src="https://simpleicons.org/icons/windows.svg" width="25px"> Windows (Personal and Server variants) 
+<img src="https://simpleicons.org/icons/linux.svg" width="25px"> Linux
+
+<br><img src="https://simpleicons.org/icons/freebsd.svg" width="25px"> FreeBSD
+
+<br><img src="https://simpleicons.org/icons/windows.svg" width="25px"> Windows (Personal and Server variants)
 
 ### Cloud
 <img src="https://simpleicons.org/icons/amazonaws.svg" width="25px"> Amazon AWS 

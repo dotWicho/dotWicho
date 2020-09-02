@@ -7,6 +7,8 @@ I'm from **Venezuela** <img src="https://github.com/dotWicho/dotWicho/blob/maste
 You can reach me on Twitter at **@dotWicho** 
 
 ## 🔧 Technologies & Tools
+Linux <img src="https://simpleicons.org/icons/linux.svg" width="30px">
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=006600)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=006600)
 ![](https://img.shields.io/badge/Editor-GoLand-informational?style=flat&logo=intellij-idea&logoColor=white&color=006600)
@@ -29,6 +31,7 @@ You can reach me on Twitter at **@dotWicho**
 
 ## Network knowledge
 <img src="https://simpleicons.org/icons/cisco.svg" width="30px">
+
 
 <!-- **dotWicho/dotWicho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align='center'>

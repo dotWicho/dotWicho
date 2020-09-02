@@ -8,7 +8,7 @@ You can reach me on Twitter at **@dotWicho** or Linkedin at **https://www.linked
 
 ## 🔧 Technologies & Tools
 ### OS:
-<img src="https://simpleicons.org/icons/linux.svg" width="25px"> Linux
+<img src="https://simpleicons.org/icons/linux.svg" width="25px" style="color:blue;"> Linux
 <br><img src="https://simpleicons.org/icons/freebsd.svg" width="25px"> FreeBSD
 <br><img src="https://simpleicons.org/icons/windows.svg" width="25px"> Windows (Personal and Server variants)
 

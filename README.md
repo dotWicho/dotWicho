@@ -2,7 +2,7 @@
 
 My name is **Luis Martinez** _aka_ **_.Wicho_**, i'm a Cloud and Network Engineer, and many times I perform as Software Developer.
 
-I'm from **Venezuela** <img src="https://github.com/dotWicho/dotWicho/blob/master/ve.png" width="15px"> living in **Argentina** <img src="https://github.com/dotWicho/dotWicho/blob/master/ar.png" width="15px">, currently working in the Banking and Finance Sector as an _**IT infrastructure developer/SRE**_.
+I'm from **Venezuela** <img src="https://github.com/dotWicho/dotWicho/blob/master/ve.png" width="15px"> living in **Argentina** <img src="https://github.com/dotWicho/dotWicho/blob/master/ar.png" width="15px">, currently working in the Banking and Finance Sector as an _**Platform Engineer/SRE**_.
  
 You can reach me on Twitter at **@dotWicho** or Linkedin at **https://www.linkedin.com/in/luisenrique-mart%C3%ADnez**
 
@@ -30,7 +30,8 @@ You can reach me on Twitter at **@dotWicho** or Linkedin at **https://www.linked
 <br><img src="https://simpleicons.org/icons/mongodb.svg" width="25px"> MongoDB
 
 ### Automation
-<img src="https://simpleicons.org/icons/bamboo.svg" width="25px"> Bamboo
+<img src="https://simpleicons.org/icons/githubactions.svg" width="25px"> GitHub Actions
+<br><img src="https://simpleicons.org/icons/bamboo.svg" width="25px"> Bamboo
 <br><img src="https://simpleicons.org/icons/ansible.svg" width="25px"> Ansible
 <br><img src="https://simpleicons.org/icons/jenkins.svg" width="25px"> Jenkins
 <br><img src="https://simpleicons.org/icons/circleci.svg" width="25px"> CircleCI

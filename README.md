@@ -46,6 +46,7 @@ You can reach me on Twitter at **@dotWicho** or Linkedin at **https://www.linked
 
 ### IasC
 <img src="https://simpleicons.org/icons/terraform.svg" width="25px"> Hashicorp Terraform
+<img src="https://simpleicons.org/icons/terraform.svg" width="25px"> Hashicorp Terragrunt
 <br><img src="https://simpleicons.org/icons/amazonaws.svg" width="25px"> Amazon Cloudformation
 
 ### CVS
@@ -53,7 +54,7 @@ You can reach me on Twitter at **@dotWicho** or Linkedin at **https://www.linked
 
 ### Programming languages
 <img src="https://simpleicons.org/icons/go.svg" width="25px"> Golang
-<br><img src="https://simpleicons.org/icons/java.svg" width="25px"> Java
+<br><img src="https://simpleicons.org/icons/javascript.svg" width="25px"> JavaScript
 <br><img src="https://simpleicons.org/icons/scala.svg" width="25px"> Scala
 <br><img src="https://simpleicons.org/icons/python.svg" width="25px"> Python
 

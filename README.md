@@ -47,11 +47,13 @@ You can reach me on Twitter at **@dotWicho** or Linkedin at **https://www.linked
 
 ### IasC
 <img src="https://simpleicons.org/icons/terraform.svg" width="25px"> Hashicorp Terraform
-<img src="https://simpleicons.org/icons/terraform.svg" width="25px"> Hashicorp Terragrunt
+<br><img src="https://simpleicons.org/icons/terraform.svg" width="25px"> Hashicorp Terragrunt
 <br><img src="https://simpleicons.org/icons/amazonaws.svg" width="25px"> Amazon Cloudformation
 
 ### CVS
 <img src="https://simpleicons.org/icons/git.svg" width="25px"> Git
+<br><img src="https://simpleicons.org/icons/github.svg" width="25px"> GitHub
+<br><img src="https://simpleicons.org/icons/gitlab.svg" width="25px"> GitLab
 
 ### Programming languages
 <img src="https://simpleicons.org/icons/go.svg" width="25px"> Golang
@@ -60,9 +62,9 @@ You can reach me on Twitter at **@dotWicho** or Linkedin at **https://www.linked
 <br><img src="https://simpleicons.org/icons/python.svg" width="25px"> Python
 
 ## Network knowledge
-<img src="https://simpleicons.org/icons/cisco.svg" width="30px"> Cisco (Os & Hardware)
-<br><img src="https://www.juniper.net/assets/svg/jnpr-logo.svg" width="30px"> Juniper Networks (Os & Hardware)
-<br><img src="https://res-www.zte.com.cn/mediares/zte/Global/logo/zte_logo_en.png" width="30px"> ZTE Network equipment (Os & Hardware)
+<img src="https://simpleicons.org/icons/cisco.svg" width="30px"> Cisco (SO & Hardware)
+<br><img src="https://www.juniper.net/assets/svg/jnpr-logo.svg" width="30px"> Juniper Networks (SO & Hardware)
+<br><img src="https://res-www.zte.com.cn/mediares/zte/Global/logo/zte_logo_en.png" width="30px"> ZTE Network equipment (SO & Hardware)
 
 <!-- **dotWicho/dotWicho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align='center'>
@@ -83,10 +85,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lmartinez-rb&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotWicho" />
-</a>
